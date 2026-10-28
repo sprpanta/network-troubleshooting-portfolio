@@ -1,4 +1,5 @@
-# Project 01 — LAN & DHCP Troubleshooting
+# Project 01 
+# LAN & DHCP Troubleshooting
 
 Cisco Packet Tracer troubleshooting lab featuring
 two LANs, DHCP, routing, and five resolved incidents.
